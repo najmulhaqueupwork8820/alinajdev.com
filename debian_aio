@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script Variables
 HOST='localhost';
-USER='alinajde_new';
-PASS='Mer@jbd6';
-DBNAME='alinajde_alinajdev';
+USER='alinaj';
+PASS='e71d668fc2af24f3e50e3032f805ee2f';
+DBNAME='alinaj';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
@@ -16,8 +16,8 @@ SYS_ADMIN_PASS='Mediatek272124@@';
 BASE_URL='https://mediatekvpn.uk/sabrinavpn';
 API_LINK='https://alinajdev.com/api/authentication';
 API_KEY='@@@DEX@@@';
-DOMAIN='f5ao.alinajdev.com'
-NS='bv94.alinajdev.com'
+DOMAIN='ahga.alinajdev.com'
+NS='ktgl.alinajdev.com'
 
 
 timedatectl set-timezone Asia/Manila
