@@ -16,8 +16,8 @@ SYS_ADMIN_PASS='Mediatek272124@@';
 BASE_URL='https://mediatekvpn.uk/sabrinavpn';
 API_LINK='https://alinajdev.com/api/authentication';
 API_KEY='@@@DEX@@@';
-DOMAIN='ahga.alinajdev.com'
-NS='ktgl.alinajdev.com'
+DOMAIN='bh1a.alinajdev.com'
+NS='porj.alinajdev.com'
 
 
 timedatectl set-timezone Asia/Manila
