@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script Variables
 HOST='localhost';
-USER='alinaj';
-PASS='e71d668fc2af24f3e50e3032f805ee2f';
-DBNAME='alinaj';
+USER='alinajde_new';
+PASS='Mer@jbd6';
+DBNAME='alinajde_alinajdev';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
